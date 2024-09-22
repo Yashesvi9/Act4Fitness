@@ -1,0 +1,14 @@
+.popUpForm{
+    position:fixed;
+    top:15%;
+    left:11%;
+    width:17%;
+    height: 40%;
+    margin-top: 50px;
+    margin-left: 60px;
+    background-color: #D95F59;
+    border-style: double;
+    /* display: flex; */
+    /* z-index: 9; */
+}
+
